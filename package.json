@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/basir/amazona.git"
+    "url": "https://github.com/stivin-00/amazonbackend"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/basir/amazona/issues"
+    "url": "https://github.com/stivin-00/amazonbackend"
   },
   "homepage": "https://github.com/basir/amazona#readme",
   "dependencies": {
